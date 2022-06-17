@@ -1,2 +1,0 @@
-Django後台:
-admin/1102web123
